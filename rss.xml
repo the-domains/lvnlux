@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LVNLUX]]></title>
+        <description><![CDATA[LVNLUX]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 04:26:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GRID TESTING]]></title>
+            <description><![CDATA[<article><h1>GRID TESTING</h1><p>LVNLUX testing the GRID. If you don't know what the GRID is... You will soon.</p></article>]]></description>
+            <link>undefinedgrid-testing/index.html</link>
+            <guid isPermaLink="false">4934c07b-8c86-4a5d-89d9-7535f2c4d28d</guid>
+            <pubDate>Wed, 23 Dec 2015 04:26:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
